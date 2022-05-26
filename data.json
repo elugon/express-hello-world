@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Melanie Martinez",
+    "age": 34,
+    "level": "intermediate",
+    "address": "Fake St. 23",
+    "hasLoan": true,
+    "avgScore": 75
+  },
+  {
+    "name": "Blanca Negro",
+    "age": 24,
+    "level": "advanced",
+    "address": "Baltimore St. 22",
+    "hasLoan": false,
+    "avgScore": 98
+  },
+  {
+    "name": "John Doe",
+    "age": 25,
+    "level": "low",
+    "address": "Fake St. 23",
+    "hasLoan": false,
+    "avgScore": 81
+  },
+  {
+    "name": "Harry Potter",
+    "age": 31,
+    "level": "advanced",
+    "address": "Cupboard under the stairs",
+    "hasLoan": true,
+    "avgScore": 92
+  }
+]
